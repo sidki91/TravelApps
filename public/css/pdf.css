@@ -1,0 +1,91 @@
+body{
+   font: normal 11px Arial, sans-serif;
+}
+ .img-polaroid {
+     background-color: #fff;
+     border: 1px solid #DDD;
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+     padding: 4px;
+
+ }
+ .float_l{
+     float: left;
+ }
+ .float_r{
+     float: right;
+ }
+ .clear{
+     clear: both;
+ }
+ .wd50{
+     width:50%;
+ }
+ .wd30{
+     width:50%;
+ }
+ .wd70{
+     width:70%;
+ }
+ hr {
+   border-color : #810808 !important;
+ }
+ .zui-table {
+ border: solid 1px #DDEEEE;
+ border-collapse: collapse;
+ border-spacing: 0;
+ font: normal 11px Arial, sans-serif;
+padding: 2px;
+ }
+ .zui-table thead th {
+     background-color: #DDEFEF;
+     border: solid 1px #DDEEEE;
+     color: #000;
+     padding: 10px;
+     text-align: left;
+ }
+ .zui-table tbody td {
+     border: solid 1px #DDEEEE;
+     color: #333;
+     padding: 6px;
+     text-shadow: 1px 1px 1px #fff;
+ }
+ .zui-table-vertical tbody td {
+     border-top: none;
+     border-bottom: none;
+ }
+
+ #left {
+     width: 50%;
+     float: left;
+   }
+   #left_full {
+       width: 100%;
+       float: left;
+     }
+   #center {
+       width: 1%;
+       float: right;
+     }
+   #right {
+     margin-left: 250px;
+     /* Change this to whatever the width of your left column is*/
+   }
+   #head_1 {
+     margin-left: 480px;
+     /* Change this to whatever the width of your left column is*/
+   }
+
+   .clear {
+     clear: both;
+   }
+   hr.new4 {
+  border: 1px solid #DDD;
+}
+#box2{
+  width:30px;
+  height:40px;
+  background:#ef2626;
+  border: 1px solid #DDD;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 4px;
+}
